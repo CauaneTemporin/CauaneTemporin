@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/CauaneTemporin">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CauaneTemporin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaneTemporin&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaneTemporin&layout=compact&langs_count=4&theme=radical"/>
 </div>
 
   
