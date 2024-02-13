@@ -31,7 +31,6 @@
 
 
 ##
-Eu sou meio que a amiga do Java, sempre dando um jeito nos códigos. Spring? Tô ligada, é meu xodó. E teste? Se não passar no teste, nem rola, né?
-Quanto à segurança, tento ser meio a guardiã do Spring Security, sabem como é.
+Como desenvolvedora, tenho sólidos conhecimentos em Java e estou sempre refinando minhas habilidades de codificação. O Spring é uma ferramenta que domino com confiança, e acredito firmemente na importância dos testes para garantir a qualidade do código. No que diz respeito à segurança, atuo com destaque no Spring Security.
 
-Resumindo, tô aqui pra botar a mão na massa, fazer as coisas acontecerem, na moral. Se precisarem de alguém que faz acontecer sem perder a linha, tamo junto. Bora criar umas paradas iradas, de boa! 🚀👩‍💻
+Resumindo, estou aqui para compartilhar minha experiência, aprimorar ainda mais minhas habilidades e enfrentar desafios complexos. Estou pronta para agregar valor! 🚀👩‍💻
